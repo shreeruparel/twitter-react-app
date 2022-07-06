@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+View the twitter clone here: https://twitter-clone-df3a2.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
